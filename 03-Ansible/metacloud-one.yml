@@ -19,5 +19,5 @@
       image_id: 
       # fill in your key name here
       key_name: 
-      flavor_id: 3 
+      flavor_id: 
       security_groups: default
