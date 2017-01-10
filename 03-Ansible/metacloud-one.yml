@@ -21,3 +21,5 @@
       key_name: 
       flavor_id: 
       security_groups: default
+      nics:
+      - net-id : 
